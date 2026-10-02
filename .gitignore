@@ -1,5 +1,18 @@
-/pp1.py
-/pp2.py
-/pp3.py
-/prism_demo
-/prism_demo.py
+# Personal data (memories + embeddings)
+memory_store.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
